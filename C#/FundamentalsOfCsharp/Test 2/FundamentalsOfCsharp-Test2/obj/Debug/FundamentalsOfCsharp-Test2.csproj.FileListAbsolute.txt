@@ -1,0 +1,7 @@
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\bin\Debug\FundamentalsOfCsharp-Test2.exe.config
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\bin\Debug\FundamentalsOfCsharp-Test2.exe
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\bin\Debug\FundamentalsOfCsharp-Test2.pdb
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\obj\Debug\FundamentalsOfCsharp-Test2.csprojAssemblyReference.cache
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\obj\Debug\FundamentalsOfCsharp-Test2.csproj.CoreCompileInputs.cache
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\obj\Debug\FundamentalsOfCsharp-Test2.exe
+C:\Users\JohnR\Code\FundamentalsOfCsharp-Test2\FundamentalsOfCsharp-Test2\obj\Debug\FundamentalsOfCsharp-Test2.pdb

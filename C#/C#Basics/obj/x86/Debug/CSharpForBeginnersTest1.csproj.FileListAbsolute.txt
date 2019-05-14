@@ -1,6 +1,0 @@
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/bin/Debug/CSharpForBeginnersTest1.exe
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/bin/Debug/CSharpForBeginnersTest1.pdb
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/obj/x86/Debug/CSharpForBeginnersTest1.csprojAssemblyReference.cache
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/obj/x86/Debug/CSharpForBeginnersTest1.csproj.CoreCompileInputs.cache
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/obj/x86/Debug/CSharpForBeginnersTest1.exe
-/Users/Angelus/Code/Udemy/CSharpForBeginnersTest1/CSharpForBeginnersTest1/obj/x86/Debug/CSharpForBeginnersTest1.pdb
