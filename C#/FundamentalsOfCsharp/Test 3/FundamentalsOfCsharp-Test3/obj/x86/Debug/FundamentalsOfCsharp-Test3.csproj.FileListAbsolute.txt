@@ -1,0 +1,6 @@
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/bin/Debug/FundamentalsOfCsharp-Test3.exe
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/bin/Debug/FundamentalsOfCsharp-Test3.pdb
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/obj/x86/Debug/FundamentalsOfCsharp-Test3.csprojAssemblyReference.cache
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/obj/x86/Debug/FundamentalsOfCsharp-Test3.csproj.CoreCompileInputs.cache
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/obj/x86/Debug/FundamentalsOfCsharp-Test3.exe
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/obj/x86/Debug/FundamentalsOfCsharp-Test3.pdb
