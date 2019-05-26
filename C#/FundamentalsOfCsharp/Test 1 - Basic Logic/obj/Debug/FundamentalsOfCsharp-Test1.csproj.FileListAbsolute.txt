@@ -1,0 +1,14 @@
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.exe.config
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.exe
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.pdb
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.csprojAssemblyReference.cache
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.csproj.CoreCompileInputs.cache
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.exe
+C:/Users/JohnR/Code/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.pdb
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.exe.config
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.exe
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/bin/Debug/FundamentalsOfCsharp-Test1.pdb
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.csprojAssemblyReference.cache
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.csproj.CoreCompileInputs.cache
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.exe
+/Users/Angelus/Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/obj/Debug/FundamentalsOfCsharp-Test1.pdb

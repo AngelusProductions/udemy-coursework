@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1781337B-72AD-4604-87FE-C691B3E96350}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="../../Code/Udemy/C#/FundamentalsOfCsharp/Test 2/FundamentalsOfCsharp-Test2/Program.cs" Line="135" Column="1" />
+      <File FileName="../../Code/Udemy/C#/FundamentalsOfCsharp/Test 3/FundamentalsOfCsharp-Test3/Program.cs" Line="16" Column="10" />
+      <File FileName="../../Code/Udemy/C#/FundamentalsOfCsharp/Test 1/FundamentalsOfCsharp-Test1/FundamentalsOfCsharp-Test1/Program.cs" Line="5" Column="1" />
+      <File FileName="Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Test" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

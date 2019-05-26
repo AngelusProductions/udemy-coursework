@@ -1,0 +1,6 @@
+/Users/Angelus/Projects/Test/bin/Debug/Test.exe
+/Users/Angelus/Projects/Test/bin/Debug/Test.pdb
+/Users/Angelus/Projects/Test/obj/x86/Debug/Test.csprojAssemblyReference.cache
+/Users/Angelus/Projects/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/Angelus/Projects/Test/obj/x86/Debug/Test.exe
+/Users/Angelus/Projects/Test/obj/x86/Debug/Test.pdb
