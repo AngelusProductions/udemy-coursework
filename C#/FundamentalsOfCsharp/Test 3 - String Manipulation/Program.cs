@@ -47,8 +47,8 @@ namespace FundamentalsOfCsharpTest3
         {
             string[] numArray = input.Split('-');
             Array.Sort(numArray);
-            List<string> library = new List<string>();
-            List<string> duplicates = new List<string>();
+            var library = new List<string>();
+            var duplicates = new List<string>();
             if (numArray.Length > 0)
                 foreach (string num in numArray)
                     if (library.Contains(num) && !duplicates.Contains(num)) duplicates.Add(num);

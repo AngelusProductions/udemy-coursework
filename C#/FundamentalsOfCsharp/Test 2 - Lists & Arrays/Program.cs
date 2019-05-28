@@ -25,7 +25,7 @@ namespace FundamentalsOfCsharpTest2
 
         private static string FacebookLikes(string input)
         {
-            List<string> friends = new List<string>();
+            var friends = new List<string>();
             while (input != "")
             {
                 friends.Add(input);
@@ -79,8 +79,8 @@ namespace FundamentalsOfCsharpTest2
         private static string OrderNums()
         {
             string input = "";
-            List<string> numbers = new List<string>();
-            List<string> display = new List<string>();
+            var numbers = new List<string>();
+            var display = new List<string>();
             do
             {
                 WriteLine("Enter a number or 'Quit':");
@@ -95,8 +95,8 @@ namespace FundamentalsOfCsharpTest2
 
         private static string SmallestNums()
         {
-            List<int> intList = new List<int>();
-            List<int> lowThree = new List<int>();
+            var intList = new List<int>();
+            var lowThree = new List<int>();
             while (lowThree.Count < 3)
             {
                 char[] inputArray = ReadLine().Trim().ToCharArray();

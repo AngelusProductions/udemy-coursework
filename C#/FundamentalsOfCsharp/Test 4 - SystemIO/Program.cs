@@ -18,7 +18,7 @@ namespace FundamentalsOfCsharpTest4
 
         public static string CreateAndReadTextFile (string input)
         {
-            Random random = new Random();
+            var random = new Random();
             string newPath = $"{GetCurrentDirectory()}/{input}.txt", randomText = "";
             for (int i = 0; i < random.Next(50); i++)
             {
