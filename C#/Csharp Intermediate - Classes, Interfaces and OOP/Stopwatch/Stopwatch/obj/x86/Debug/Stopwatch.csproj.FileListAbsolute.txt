@@ -1,0 +1,6 @@
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/bin/Debug/Stopwatch.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/bin/Debug/Stopwatch.pdb
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/obj/x86/Debug/Stopwatch.csprojAssemblyReference.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/obj/x86/Debug/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/obj/x86/Debug/Stopwatch.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/Stopwatch/Stopwatch/obj/x86/Debug/Stopwatch.pdb
