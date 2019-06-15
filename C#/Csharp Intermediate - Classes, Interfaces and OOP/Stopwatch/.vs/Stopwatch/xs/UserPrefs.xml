@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{7786F200-195E-48B5-A660-93F5B2251A11}|Default">
-  <MonoDevelop.Ide.ItemProperties.Stopwatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Stopwatch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="15" Column="14" />
+      <File FileName="Program.cs" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
