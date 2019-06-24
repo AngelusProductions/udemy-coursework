@@ -1,6 +1,0 @@
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/bin/Debug/StackOverflow.exe
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/bin/Debug/StackOverflow.pdb
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/obj/x86/Debug/StackOverflow.csprojAssemblyReference.cache
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/obj/x86/Debug/StackOverflow.csproj.CoreCompileInputs.cache
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/obj/x86/Debug/StackOverflow.exe
-/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackOverflow/obj/x86/Debug/StackOverflow.pdb

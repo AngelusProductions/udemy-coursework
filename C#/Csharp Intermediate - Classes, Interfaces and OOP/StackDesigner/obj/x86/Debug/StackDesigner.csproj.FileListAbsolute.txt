@@ -1,0 +1,6 @@
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/bin/Debug/StackDesigner.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/bin/Debug/StackDesigner.pdb
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/obj/x86/Debug/StackDesigner.csprojAssemblyReference.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/obj/x86/Debug/StackDesigner.csproj.CoreCompileInputs.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/obj/x86/Debug/StackDesigner.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/StackDesigner/obj/x86/Debug/StackDesigner.pdb
