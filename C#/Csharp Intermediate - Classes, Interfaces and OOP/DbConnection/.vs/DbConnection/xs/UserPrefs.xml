@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E51FD12D-69BD-4B8D-8168-90EFD106E3DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.DbConnection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DbCommand.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="31" />
+      <File FileName="DbConnection.cs" Line="23" Column="1" />
+      <File FileName="DbCommand.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

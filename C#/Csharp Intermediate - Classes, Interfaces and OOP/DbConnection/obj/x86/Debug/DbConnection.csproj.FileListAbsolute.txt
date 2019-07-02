@@ -1,0 +1,6 @@
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/obj/x86/Debug/DbConnection.csproj.CoreCompileInputs.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/obj/x86/Debug/DbConnection.csprojAssemblyReference.cache
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/bin/Debug/DbConnection.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/bin/Debug/DbConnection.pdb
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/obj/x86/Debug/DbConnection.exe
+/Users/Angelus/Code/Udemy/C#/Csharp Intermediate - Classes, Interfaces and OOP/DbConnection/obj/x86/Debug/DbConnection.pdb
