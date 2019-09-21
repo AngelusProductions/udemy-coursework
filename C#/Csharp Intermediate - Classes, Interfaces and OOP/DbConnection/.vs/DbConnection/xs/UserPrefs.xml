@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{E51FD12D-69BD-4B8D-8168-90EFD106E3DC}|Default">
   <MonoDevelop.Ide.ItemProperties.DbConnection PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DbCommand.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DbConnection.cs">
     <Files>
-      <File FileName="Program.cs" Line="17" Column="31" />
-      <File FileName="DbConnection.cs" Line="23" Column="1" />
-      <File FileName="DbCommand.cs" Line="11" Column="10" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="DbConnection.cs" Line="7" Column="6" />
+      <File FileName="DbCommand.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

@@ -10,7 +10,9 @@ namespace Databases
             Connection = connection; Instruction = instruction;
         }
 
-        public string Execute() { Connection.Open(); Connection.Close(); return $"Executed: {Instruction}"; }
+        public string Execute() { 
+            Connection.Open(); Connection.Close();
+            return $"Executed: {Instruction}"; }
 
         public DbConnection Connection { get; set; }
         public string Instruction { get; set; }
